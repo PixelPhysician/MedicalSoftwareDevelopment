@@ -1,4 +1,4 @@
-[# Medical Software Development – FHNW (SS25)
+# Medical Software Development – FHNW (SS25)
 
 This repository documents my completed work for the Medical Software Development course at FHNW (Spring Semester 2025).  
 
