@@ -1,4 +1,4 @@
-# Medical Software Development – FHNW (SS25)
+[# Medical Software Development – FHNW (SS25)
 
 This repository documents my completed work for the Medical Software Development course at FHNW (Spring Semester 2025).  
 
@@ -17,7 +17,7 @@ This repository documents my completed work for the Medical Software Development
 | 06 | DNA to Protein + Design Patterns           | Python class design using Singleton & Factory for biological sequences      | [🔗 GitHub](https://github.com/PixelPhysician/dna2protein_updated) | |
 | 07 | Backend Data Collection Service            | Flask REST API with validation, logging, unit testing, Postman checks       | [🔗 GitHub](https://github.com/PixelPhysician/backend_service_improvements) |
 | 08 | Android Sensor Overview                    | Sensor enumeration app - used for Samsung A15 Android Phone                 | [🔗 GitHub](https://github.com/PixelPhysician/android_sensor_overview) |
-| 09 | Data Collection App                        | Android app for multi-sensor data logging and export to JSON                | [📄 PDF](./exercise_09_medicalsoftwaredevelopment.pdf) |
+| 09 | Data Collection App                        | Android app for multi-sensor data logging and export to JSON                | [🔗 GitHub](https://github.com/PixelPhysician/android_sensor_analysis) 
 | 10 | Scientific Question & Analytics            | Digital biomarker study + Python/R data analysis pipeline - ICU light       | [🔗 GitHub](https://github.com/PixelPhysician/ICU_light_android_sensor_project) |
 
    | 
@@ -30,3 +30,4 @@ Thank you for the amazing course and interesting exercises!
 ---
 
 by Sarah Deckarm, 2025
+](https://github.com/PixelPhysician/android_sensor_analysis/tree/main)
