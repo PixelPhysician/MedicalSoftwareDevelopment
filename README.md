@@ -17,8 +17,8 @@ This repository documents my completed work for the Medical Software Development
 | 06 | DNA to Protein + Design Patterns           | Python class design using Singleton & Factory for biological sequences      | [🔗 GitHub](https://github.com/PixelPhysician/dna2protein_updated) | |
 | 07 | Backend Data Collection Service            | Flask REST API with validation, logging, unit testing, Postman checks       | [🔗 GitHub](https://github.com/PixelPhysician/backend_service_improvements) |
 | 08 | Android Sensor Overview                    | Sensor enumeration app - used for Samsung A15 Android Phone                 | [🔗 GitHub](https://github.com/PixelPhysician/android_sensor_overview) |
-| 09 | Data Collection App                        | Android app for multi-sensor data logging and export to JSON                | [🔗 GitHub](https://github.com/PixelPhysician/android_sensor_analysis) 
-| 10 | Scientific Question & Analytics            | Digital biomarker study + Python/R data analysis pipeline - ICU light       | [🔗 GitHub](https://github.com/PixelPhysician/ICU_light_android_sensor_project) |
+| 09 | Data Collection App                        | Multi-sensor light data logging and export to JSON                          | [🔗 GitHub](https://github.com/PixelPhysician/android_sensor_analysis) 
+| 10 | Scientific Question & Analytics            | Digital biomarker study Python analysis of ICU light                        | [🔗 GitHub](https://github.com/PixelPhysician/ICU_light_android_sensor_project) |
 
    | 
 ---
